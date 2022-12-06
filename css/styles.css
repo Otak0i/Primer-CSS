@@ -1,0 +1,157 @@
+/*********************************************TAGS*********************************************/
+body{
+    margin: 0;
+    text-align: center;
+}
+
+hr{
+    border-color:#1B2430;
+    border-style: dashed;
+    height: 3 none none;
+    border-width: 0.1rem;
+    width: 100%;
+    margin: 0em;
+}
+
+div{  
+    margin: 0; 
+}
+
+h1{
+    font-family: 'Secular One', sans-serif;
+    margin: 0;
+    color: #0F3D3E;
+}
+
+h2{
+    font-family: 'Secular One', sans-serif;
+    margin: 0;
+    color: #0F3D3E;
+}
+
+p{
+    font-family: 'Secular One', sans-serif;
+    color: #1B2430;
+    font-size: 1rem;
+    margin-top: 0.2rem;
+}
+
+a{
+    color: #11999E;
+    display: inline;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+/*********************************************CLASS*********************************************/
+.divs {
+}
+
+.textoIntro{
+    width: 20rem;
+    margin: auto;
+}
+
+.parrafo{
+    font-size: 1.2rem;
+}
+
+.textoDescriptivo{
+    width: 36rem;
+    margin:auto;
+}
+
+
+.pDescriptivo{
+    width: 20rem;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.division{
+    border-color:#1B2430;
+    border-style: dotted none none;
+    border-width: 0.5rem;
+    width: 60%;
+    margin: 2rem auto auto auto;
+
+}
+
+.redes{
+    margin: auto;
+}
+
+.redesP{
+    color: #11999E;
+    display: inline;
+    margin-left: 1rem;
+}
+
+/*********************************************IDs*********************************************/
+
+#top-container{
+    background-color: #7DE5ED;
+}
+
+#mid-container{
+}
+
+#bottom-container {
+    height: 5rem;
+    background-color: #7DE5ED;
+}
+
+#imgHat{
+    max-width: 10rem;
+    max-height: 5rem;
+}
+
+#imgCurriculum{
+    position: absolute;
+    width: 5rem;
+    margin-left: -8rem;
+    margin-top: 5rem;
+    
+}
+
+#imgAvatar{
+    display: inline;
+    position: relative;
+    max-width: 10rem; 
+
+}
+
+#imgLupa{
+    position: absolute;
+    width: 5rem;
+}
+
+#imgMaterials2{
+    position: absolute;
+    width: 8rem;
+    margin-top: 10rem;
+    margin-left: 5rem;
+}
+
+#imgPerfil{
+    width: 8rem;
+    border-radius: 4rem;
+}
+
+#gifProgramming{
+    width: 12rem;
+    height: 12rem;
+    float: left;
+    margin-top: 0.2rem;
+    margin-right: 0.4rem;
+}
+
+#gifKawaii{
+    float: right;
+    margin-top: 0.2rem;
+    margin-right: 0.4rem;
+}
+
+#pCopyRigh{
+    color: #EAF6F6;
+}
