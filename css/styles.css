@@ -14,7 +14,8 @@ hr{
 }
 
 div{  
-    margin: 0; 
+    margin: 0; 0
+    width: 100%;
 }
 
 h1{
@@ -99,6 +100,7 @@ a{
 #bottom-container {
     height: 5rem;
     background-color: #7DE5ED;
+    margin-bottom: 0;
 }
 
 #imgHat{
@@ -117,7 +119,7 @@ a{
 #imgAvatar{
     display: inline;
     position: relative;
-    max-width: 10rem; 
+    width: 10rem; 
 
 }
 
